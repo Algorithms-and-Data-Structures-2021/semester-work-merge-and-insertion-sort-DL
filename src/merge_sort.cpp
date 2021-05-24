@@ -2,7 +2,7 @@
 
 namespace itis {
 
-  void merge_sort(std::vector<int> arr, int l, int r) {
+  void merge_sort(vector<int> arr, int l, int r) {
 
     for (int m = 1; m <= r - l; m = 2 * m) {
       for (int i = l; i < r; i += 2 * m) {
@@ -19,7 +19,7 @@ namespace itis {
     return (x < y) ? x : y;
   }
 
-  void merge(std::vector<int> arr, int start, int mid, int end) {
+  void merge(vector<int> arr, int start, int mid, int end) {
     int start2 = mid + 1;
 
     if (arr[mid] <= arr[start2]) {
