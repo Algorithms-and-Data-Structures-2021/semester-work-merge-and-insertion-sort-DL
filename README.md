@@ -122,4 +122,10 @@ Merge sort:
 
 Insertion sort:
 
+1.[Википедия](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%D0%BC%D0%B8)
 
+2.[Habr](https://habr.com/ru/post/181271/)
+
+3.[YouTube](https://www.youtube.com/watch?v=a4IQKxDyR6s)
+
+4.[ИТМО](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%D0%BC%D0%B8)
